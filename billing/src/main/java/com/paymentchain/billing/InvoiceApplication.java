@@ -1,6 +1,6 @@
 package com.paymentchain.billing;
 
-//COMENTARIO PRUEBA FEATURE/PRUEBA3
+//COMENTARIO PRUEBA FEATURE/borrarcomentario
 
 
 import java.util.Arrays;
